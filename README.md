@@ -1,7 +1,7 @@
 English description: 
 There it is. The result of the second interactive class from IGTI's Full Stack bootcamp. We're now closing the first chapter, presented by teacher Raphael Gomide.
 
-Here's the idea: Get two different APIs (one about users, the other about countries), then combine then in a single array and make it possible so you can search users using their name as a parameter.
+Here's the idea: Get two different APIs (one about users, the other about countries), then combine them in a single array and make it possible so you can search users using their name as a parameter.
 
 Some JS concepts used: fetch, async/await, map() and filter(), as well some backend sneak peek from chapter 2, putting the APIs in a local host, so we wouldn't request then all the time.
 
