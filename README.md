@@ -5,6 +5,7 @@ Here's the idea: Get two different APIs (one about users, the other about countr
 
 Some JS concepts used: fetch, async/await, map() and filter(), as well some backend sneak peek from chapter 2, putting the APIs in a local host, so we wouldn't request then all the time.
 
+//------------------------------------------------
 
 PT-BR:
 Resultado da segunda aula interativa do bootcamp Full Stack Instituto de Gestão e Tecnologia da Informação, fechando o módulo 01 apresentado pelo professor Raphael Gomide.
